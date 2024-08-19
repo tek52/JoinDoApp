@@ -1,8 +1,8 @@
-## JoinDoApp
+# JoinDoApp
 
 This is a design of Join Do App UI examples
 
-# Project
+## Project
 
 This is a description of my project.
 
