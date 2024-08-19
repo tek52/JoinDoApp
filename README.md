@@ -10,41 +10,48 @@ This is a description of my project.
   <tr>
     <td>
       <h4>New Version UI-1</h4>
-      <img src="https://github.com/user-attachments/assets/fa2bde6d-9de9-4067-8efd-eacb42758a27" alt="Feature 1" width="300"/>
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/fa2bde6d-9de9-4067-8efd-eacb42758a27" alt="Feature 1" width="300"/>
+      </div>
       <ul>
-        <li>Uygulamanin asil amaci sport aktivitesi oldugu icin spor resimleri vurgulandi</li>
-        <li>Tarih ve saat icon lari daha on plana cikartildi/li>
-        <li>Kullanici dostu bir ara yuz tasarlanmaya calisildi</li>
+        <li>The primary purpose of the application is sports activity, so sports images are highlighted.</li>
+        <li>Date and time icons were brought to the forefront.</li>
+        <li>A user-friendly interface was aimed at being designed.</li>
       </ul>
     </td>
     <td>
       <h4>Old Version UI</h4>
-      <img src="https://github.com/user-attachments/assets/5c8c9407-c7b9-4d8f-a147-7a6123fdce3b" alt="Feature 2" width="300"/>
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/5c8c9407-c7b9-4d8f-a147-7a6123fdce3b" alt="Feature 2" width="300"/>
+      </div>
       <ul>
         <li>Old design</li>
-        <li>Eski ara yuzde spor icon cok kucuk ve uygulamanin amacini tam yansitmamaktaydi.</li>
-        <li>Uygulamada cok az white space vardi bu da kullanicilara sikici bir kullanici deneyimi sunabiliyordu.</li>
+        <li>In the old interface, the sports icon was very small and did not fully reflect the application's purpose.</li>
+        <li>The application had very little white space, which could offer users a boring experience.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
       <h4>New Version UI-2</h4>
-      <img src="https://github.com/user-attachments/assets/aa603860-242d-45d1-b63f-d8c5da2af697" alt="Feature 3" width="300"/>
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/aa603860-242d-45d1-b63f-d8c5da2af697" alt="Feature 3" width="300"/>
+      </div>
       <ul>
-        <li>Explanation of the feature</li>
-        <li>Spora kayit olan kisiler 4 kisinin progil resmi ile sinirlandirildi bu da kullanicilarda merak uyandirip kisilere bakmaya ve uygulamada kalmalari amaclandi</li>
-        <li>Useable ve useful arayuz tasarlamak adina uzun yazilardan ziyade tek bir icon ve text ile anlatilabilecek 'Event Title' basligi gelistirildi.</li>
-         <li>Event olusturma butonu iconography cercevesinde app uygun sekilde tasarlandi.</li>
+        <li>Explanation of the feature.</li>
+        <li>The number of people registered for sports is limited to 4 profile pictures, creating curiosity and encouraging users to explore and stay on the app.</li>
+        <li>To design a usable and useful interface, long texts were replaced with an 'Event Title' heading that could be described with just an icon and text.</li>
+        <li>The event creation button was designed to fit the app's iconography framework.</li>
       </ul>
     </td>
     <td>
       <h4>Old Version UI</h4>
-      <img src="https://github.com/user-attachments/assets/5c8c9407-c7b9-4d8f-a147-7a6123fdce3b" alt="Old Version UI" width="300"/>
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/5c8c9407-c7b9-4d8f-a147-7a6123fdce3b" alt="Old Version UI" width="300"/>
+      </div>
       <ul>
-        <li>Eski versiyonda Event title adi altinda uzun bir text mevcuttu ve kullanicilari olusturulan uygulamaya davet ediliyordu.</li>
-        <li>Yazi uzun ve cogu kullanici tarafindan okumasi sikici olabileceginden app de kalma suresini azaltma ihtimali yuksekti.</li>
-       
+        <li>In the old version, the 'Event Title' was a long text inviting users to the created event.</li>
+        <li>Since the text was long and could be boring for most users, there was a high possibility of reducing the time spent in the app.</li>
       </ul>
     </td>
   </tr>
