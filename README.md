@@ -11,7 +11,9 @@ This is a description of my project.
     <td>
       <h4>New Version UI-1</h4>
       <img src="https://github.com/user-attachments/assets/fa2bde6d-9de9-4067-8efd-eacb42758a27" alt="Feature 1" width="300"/>
-      <p>Explanation of the feature</p>
+      <p>- Ilk olarak
+      - dsdsdsd
+      -dsdsdsd</p>
     </td>
     <td>
       <h4>Old Version UI</h4>
