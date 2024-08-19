@@ -15,7 +15,7 @@ This is a description of my project.
     </td>
     <td>
       <h4>UI Example-2</h4>
-      <img src="https://github.com/user-attachments/assets/fb4e89e5-7ea7-4306-acdc-371863bdc1e8" alt="Feature 2" width="300"/>
+      <img src="https://github.com/user-attachments/assets/5c8c9407-c7b9-4d8f-a147-7a6123fdce3b" alt="Feature 2" width="300"/>
       <p>Explanation of the feature</p>
     </td>
   </tr>
