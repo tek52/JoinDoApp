@@ -4,7 +4,7 @@ This is a design of Join Do App UI examples
 
 ## Project
 
-This is a description of my project.
+This is a description newly designed UIs of the app.
 
 <table>
   <tr>
