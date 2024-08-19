@@ -38,7 +38,7 @@ This is a description of my project.
       </div>
       <ul>
         <li>The number of people registered for sports is limited to 4 profile pictures, creating curiosity and encouraging users to explore and stay on the app.</li>
-        <li>To design a usable and useful interface, long texts were replaced with an 'Event Title' heading that could be described with just an icon and text.</li>
+        <li>To design a usable and useful interface, long texts were replaced with an 'Event Title' heading that could be described with just an icon and text-'Click to Join'.</li>
         <li>The event creation button was designed to fit the app's iconography framework.</li>
       </ul>
     </td>
