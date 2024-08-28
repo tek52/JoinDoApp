@@ -55,23 +55,23 @@ This is a description newly designed UIs of the app.
   </tr>
   <tr>
     <td>
-      <h4>Profile UI-1</h4>
+      <h4>User Profile Interface-1</h4>
       <div align="center">
         <img src="https://github.com/user-attachments/assets/76bffbde-e249-492e-b5d8-c2dd19dd2856" alt="Profile UI-1" width="300"/>
       </div>
       <ul>
-        <li>This UI focuses on the user's profile with easy access to editing options.</li>
-        <li>Profile information is displayed clearly with emphasis on the user's activity.</li>
+        <li>When scrolling down, other UI elements begin to slide over the profile photo, maintaining the focus on the central content.</li>
+        <li>Profile information is displayed clearly with emphasis on the user's sport activities.</li>
       </ul>
     </td>
     <td>
-      <h4>Profile UI-2</h4>
+      <h4>User Profile Interface-2</h4>
       <div align="center">
         <img src="https://github.com/user-attachments/assets/ac6a1d36-e7f2-4432-810b-aa7f03a8998a" alt="Profile UI-2" width="300"/>
       </div>
       <ul>
-        <li>This version provides a more detailed view of the user's profile, including a summary of recent activities.</li>
-        <li>The interface is designed to be visually appealing while maintaining functionality.</li>
+        <li>As the page is scrolled upwards, the profile photo gradually zooms in, creating a dynamic visual effect.</li>
+        <li>The logo at the top of the screen transitions into an app bar-like design, providing a cohesive and streamlined navigation experience as the user interacts with the profile page.</li>
       </ul>
     </td>
   </tr>
