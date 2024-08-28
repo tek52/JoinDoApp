@@ -11,7 +11,7 @@ This is a description newly designed UIs of the app.
     <td>
       <h4>New Version UI-1</h4>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/fa2bde6d-9de9-4067-8efd-eacb42758a27" alt="Feature 1" width="300"/>
+        <img src="https://github.com/user-attachments/assets/b16c4ca0-2d0c-4619-874b-6bf3d340bf11" alt="Feature 1" width="300"/>
       </div>
       <ul>
         <li>The primary purpose of the application is sports activity, so sports images are highlighted.</li>
