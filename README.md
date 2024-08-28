@@ -11,7 +11,7 @@ This is a description newly designed UIs of the app.
     <td>
       <h4>New Version UI-1</h4>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/fa2bde6d-9de9-4067-8efd-eacb42758a27" alt="Feature 1" width="300"/>
+        <img src="https://github.com/user-attachments/assets/bd52b977-04b3-4130-8000-6b0b9f7e28e9" alt="Feature 1" width="300"/>
       </div>
       <ul>
         <li>The primary purpose of the application is sports activity, so sports images are highlighted.</li>
@@ -22,7 +22,7 @@ This is a description newly designed UIs of the app.
     <td>
       <h4>Old Version UI</h4>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/5c8c9407-c7b9-4d8f-a147-7a6123fdce3b" alt="Feature 2" width="300"/>
+        <img src="https://github.com/user-attachments/assets/8b014b9c-f661-4886-9bdf-5543adbcfb7b" alt="Feature 2" width="300"/>
       </div>
       <ul>
         <li>In the old interface, the sports icon was very small and did not fully reflect the application's purpose.</li>
@@ -54,3 +54,6 @@ This is a description newly designed UIs of the app.
     </td>
   </tr>
 </table>
+
+
+
